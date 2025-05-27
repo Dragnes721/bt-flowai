@@ -1,0 +1,34 @@
+BT Ajans Platform Yardım Rehberi
+================================
+
+1. Proje Oluşturma ve Takip (JOB_MODULE)
+   - Yeni proje ekleme:         POST   /jobs
+   - Tüm projeleri listeleme:    GET    /jobs
+   - Proje güncelleme:           PUT    /jobs/{job_id}
+   - Proje silme:                DELETE /jobs/{job_id}
+
+2. Freelancer Sorgulama ve Eşleştirme (FREELANCER_MODULE)
+   - Tüm freelancerları listeleme:               GET    /freelancers
+   - Yeni freelancer ekleme:                     POST   /freelancers
+   - Freelancer güncelleme:                      PUT    /freelancers/{freelancer_id}
+   - Freelancer silme:                           DELETE /freelancers/{freelancer_id}
+   - Eşleştirme isteği gönderme:                 POST   /match/freelancers
+     • Body: {{ "skill": "Web Development", "min_exp": 3 }}
+
+3. Kullanıcı Yönetimi ve Profil Güncelleme (USER_MODULE)
+   - Yeni hesap oluşturma:      POST   /register
+     • Body: {{ "name","username","password","role" }}
+   - Giriş yapma:               POST   /login
+     • Body: {{ "username","password" }}
+   - Mevcut kullanıcı bilgisi:   GET    /protected
+   - Tüm kullanıcıları listeleme: GET    /users
+   - Kullanıcı güncelleme:       PUT    /user/{{user_id}}
+   - Kullanıcı silme:            DELETE /user/{{user_id}}
+
+4. Genel Sohbet & RAG Destekli Chat (GENERAL_CHAT / CHAT_MODULE)
+   - Yeni sohbet başlatma:       POST   /chat
+     • Body: {{ "session_id","question" }}
+   - Sohbet geçmişini getirme:   GET    /chat/{{session_id}}
+
+5. Yardım Komutları
+   - Bu yardım rehberini görüntüleme: GET    /help

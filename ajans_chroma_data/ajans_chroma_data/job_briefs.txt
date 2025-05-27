@@ -1,0 +1,18 @@
+Project ID  : 1
+Title       : Kurumsal Web Sitesi Tasarımı
+Description : Bir inşaat firmasına yönelik, responsive özellikli ve SEO uyumlu kurumsal web sitesi tasarımı.
+Budget      : 10000 TL
+Deadline    : 2025-06-30
+---
+Project ID  : 2
+Title       : Mobil Uygulama Geliştirme
+Description : E-ticaret platformu için Android ve iOS destekli mobil uygulama geliştirme.
+Budget      : 15000 TL
+Deadline    : 2025-07-15
+---
+Project ID  : 3
+Title       : Logo ve Kurumsal Kimlik Tasarımı
+Description : Yeni kurulacak teknoloji şirketi için logo, kartvizit ve antetli kağıt tasarımları.
+Budget      : 5000 TL
+Deadline    : 2025-06-20
+---

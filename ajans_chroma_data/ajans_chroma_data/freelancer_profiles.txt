@@ -1,0 +1,29 @@
+Freelancer ID: 1
+Name         : Ali Veli
+Skill        : Web Development
+Experience   : 5 years
+Available    : True
+---
+Freelancer ID: 2
+Name         : Melek Demir
+Skill        : Graphic Design
+Experience   : 3 years
+Available    : False
+---
+Freelancer ID: 3
+Name         : Burcu Kaya
+Skill        : SEO & Copywriting
+Experience   : 4 years
+Available    : True
+---
+Freelancer ID: 4
+Name         : Emre Şahin
+Skill        : UI/UX Design
+Experience   : 2 years
+Available    : True
+---
+Freelancer ID: 5
+Name         : Leyla Arslan
+Skill        : Front-end Development
+Experience   : 6 years
+Available    : False

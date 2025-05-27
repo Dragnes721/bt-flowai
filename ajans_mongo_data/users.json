@@ -1,0 +1,17 @@
+[
+  {
+    "user_id": 1,
+    "username": "ali_admin",
+    "role": "admin"
+  },
+  {
+    "user_id": 2,
+    "username": "mehmet_musteri",
+    "role": "customer"
+  },
+  {
+    "user_id": 3,
+    "username": "ayse_freelancer",
+    "role": "freelancer"
+  }
+]

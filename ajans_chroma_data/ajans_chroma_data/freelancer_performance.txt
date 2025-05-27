@@ -1,0 +1,25 @@
+Freelancer ID       : 1
+Name                : Ahmet Yılmaz
+Projects Completed  : 12
+Average Rating      : 4.8
+---
+Freelancer ID       : 2
+Name                : Melek Demir
+Projects Completed  : 8
+Average Rating      : 4.5
+---
+Freelancer ID       : 3
+Name                : Burcu Kaya
+Projects Completed  : 15
+Average Rating      : 4.9
+---
+Freelancer ID       : 4
+Name                : Emre Şahin
+Projects Completed  : 9
+Average Rating      : 4.6
+---
+Freelancer ID       : 5
+Name                : Leyla Arslan
+Projects Completed  : 20
+Average Rating      : 4.7
+---

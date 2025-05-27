@@ -1,0 +1,26 @@
+[
+  {
+    "job_id": 1,
+    "description": "Bir inşaat firmasına yönelik, responsive özellikli ve SEO uyumlu kurumsal web sitesi tasarımı.",
+    "budget": 10000,
+    "deadline": "2025-06-30",
+    "status": "Beklemede",
+    "assigned_freelancer_id": null
+  },
+  {
+    "job_id": 2,
+    "description": "E-ticaret platformu için Android ve iOS destekli mobil uygulama geliştirme.",
+    "budget": 15000,
+    "deadline": "2025-07-15",
+    "status": "Beklemede",
+    "assigned_freelancer_id": null
+  },
+  {
+    "job_id": 3,
+    "description": "Yeni kurulacak teknoloji şirketi için logo, kartvizit ve antetli kağıt tasarımları.",
+    "budget": 5000,
+    "deadline": "2025-06-20",
+    "status": "Beklemede",
+    "assigned_freelancer_id": null
+  }
+]

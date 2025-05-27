@@ -1,0 +1,34 @@
+# IDE ve ayar klasörleri
+.idea/
+.vscode/
+
+# Jupyter notebook’ları ve checkpoint’ler
+**/.ipynb_checkpoints/
+*.ipynb
+
+# Python önbellek dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal ortamlar, env dosyaları
+.venv/
+env/
+ENV/
+venv/
+*.env
+
+# ChromaDB persiste klasörü
+ajans_chroma_db/
+
+# Office ve tablo dosyaları
+*.xls*
+*.pptx
+*.docx
+
+# Geçici ve log dosyaları
+*.log
+*.tmp
+
+# macOS arka plan dosyası
+.DS_Store
